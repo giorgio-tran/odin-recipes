@@ -1,4 +1,19 @@
 .header-1 {
     color: #92aca0;
+    font-family: Helvetica, sans-serif;
 }
 
+h2 {
+    color: blueviolet;
+    font-family: cursive;
+}
+
+ol li {
+    color: pink;
+    background-color: rgb(20, 200, 100);
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
